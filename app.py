@@ -31,8 +31,8 @@ N_DOCUMENTOS = 3
 # Título do app
 st.set_page_config(page_title="RAG Público 📘🤖", page_icon="📘")
 st.title("Chat com o Manual de Emendas 📘")
-st.markdown("**Trabalho Final Disciplina IAGEN Adm Pública** - MBA CDIA Enap)
-st.markdown("***Eduardo Moura***)
+st.markdown("**Trabalho Final Disciplina IAGEN Adm Pública** - MBA CDIA Enap")
+st.markdown("***Eduardo Moura***")
 
 # Carregar ou criar vetores (cache para performance)
 @st.cache_resource
